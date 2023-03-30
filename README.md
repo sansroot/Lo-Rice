@@ -13,7 +13,7 @@ For tiles i used Pop-Shell Gnome Extension
 For the gradient in Neofetch output i used LolCat and added "neofetch | lolcat" to .bashrc file
 
 The theme isn't finished yet. If you like it, please check back soon for updates.
-![Screenshot from 2023-03-25 22-56-48](https://user-images.githubusercontent.com/29405747/227751103-5b471523-1059-49d9-8498-5bb9a20e1f61.png)
-![Screenshot from 2023-03-25 22-56-03](https://user-images.githubusercontent.com/29405747/227751108-5ac3e7a4-f2aa-4858-9303-e3552415eaf9.png)
-![Screenshot from 2023-03-25 22-57-00](https://user-images.githubusercontent.com/29405747/227751110-a69886d8-888c-4653-a924-14b44b81a2a0.png)
-![Screenshot from 2023-03-25 22-57-06](https://user-images.githubusercontent.com/29405747/227751111-b96bf6f4-4873-4951-84a4-6d4929cacb60.png)
+
+![Screenshot from 2023-03-30 04-17-08](https://user-images.githubusercontent.com/29405747/228759156-97744a37-9bc5-4f56-bd7e-0fd14edc3115.png)
+![Screenshot from 2023-03-30 04-17-10](https://user-images.githubusercontent.com/29405747/228759161-c9a3c961-9420-40c6-be7b-6c8b3ac3ce59.png)
+![Screenshot from 2023-03-30 04-17-21](https://user-images.githubusercontent.com/29405747/228759167-cfd70f19-08e5-4aa7-a67a-0c23095eb8c2.png)

@@ -1,7 +1,7 @@
 # Based on Bridge by ScionicSpectre and Adwaita by GNOME
 # vim:set ts=2 sw=2 sts=2 ai et:
 #
-# This is the GTK 2 version of Material-Black-Plum. It's whole purpose is to look as the
+# This is the GTK 2 version of Materia. It's whole purpose is to look as the
 # GTK 3 version as much as possible until GTK 2 dies completely.
 #
 # Note: comments for explaining styles are on the bottom of each file beside the
@@ -12,25 +12,19 @@
 # order to not mess up the dark theme.
 
 # Text/base
-gtk-color-scheme = "base_color:#1a1c1e"
-gtk-color-scheme = "text_color:#9e9e9e"
+gtk-color-scheme = "text_color:#eff1f5\nbase_color:#303446"
 # Foreground/background
-gtk-color-scheme = "bg_color:#0f1011"
-gtk-color-scheme = "fg_color:#9e9e9e"
+gtk-color-scheme = "fg_color:#eff1f5\nbg_color:#303446"
 # Selected foreground/background
-gtk-color-scheme = "selected_bg_color:#6a3cbf"
-gtk-color-scheme = "selected_fg_color:#000000"
+gtk-color-scheme = "selected_fg_color:#eff1f5\nselected_bg_color:#8caaee"
 # Titlebar foreground/background
-gtk-color-scheme = "titlebar_bg_color:#09090a"
-gtk-color-scheme = "titlebar_fg_color:#9e9e9e"
+gtk-color-scheme = "titlebar_fg_color:#eff1f5\ntitlebar_bg_color:#232634"
 # Menus
-gtk-color-scheme = "menu_color:#141416"
+gtk-color-scheme = "menu_color:#292c3c"
 # Tooltips foreground/background
-gtk-color-scheme = "tooltip_bg_color:#616161"
-gtk-color-scheme = "tooltip_fg_color:#9e9e9e"
+gtk-color-scheme = "tooltip_fg_color:#eff1f5\ntooltip_bg_color:#232634"
 # Links
-gtk-color-scheme = "link_color:#6a3cbf"
-gtk-color-scheme = "visited_link_color:#c58af9"
+gtk-color-scheme = "link_color:#8AB4F8\nvisited_link_color:#CE93D8"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1

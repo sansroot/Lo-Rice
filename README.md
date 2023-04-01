@@ -14,6 +14,9 @@ For the gradient in Neofetch output i used LolCat and added "neofetch | lolcat" 
 
 The theme isn't finished yet. If you like it, please check back soon for updates.
 
+For my extensions, you need to put the directory "extensions" at ~/.local/share/gnome-shell/
+If you have your own extensions you can just copy all directories inside the extensions folder of the project to your own extensions folder.
+
 
 ![Screenshot from 2023-03-31 23-04-18](https://user-images.githubusercontent.com/29405747/229260717-6e93276c-af01-4817-bc6e-6fe4d99c2198.png)
 ![Screenshot from 2023-03-31 23-04-27](https://user-images.githubusercontent.com/29405747/229260722-3fa0c380-abf5-4051-b5ef-3701bad41a27.png)

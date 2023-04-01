@@ -14,6 +14,7 @@ For the gradient in Neofetch output i used LolCat and added "neofetch | lolcat" 
 
 The theme isn't finished yet. If you like it, please check back soon for updates.
 
-![Screenshot from 2023-03-30 04-17-08](https://user-images.githubusercontent.com/29405747/228759156-97744a37-9bc5-4f56-bd7e-0fd14edc3115.png)
-![Screenshot from 2023-03-30 04-17-10](https://user-images.githubusercontent.com/29405747/228759161-c9a3c961-9420-40c6-be7b-6c8b3ac3ce59.png)
-![Screenshot from 2023-03-30 04-17-21](https://user-images.githubusercontent.com/29405747/228759167-cfd70f19-08e5-4aa7-a67a-0c23095eb8c2.png)
+
+![Screenshot from 2023-03-31 23-04-18](https://user-images.githubusercontent.com/29405747/229260717-6e93276c-af01-4817-bc6e-6fe4d99c2198.png)
+![Screenshot from 2023-03-31 23-04-27](https://user-images.githubusercontent.com/29405747/229260722-3fa0c380-abf5-4051-b5ef-3701bad41a27.png)
+![Screenshot from 2023-03-31 23-04-43](https://user-images.githubusercontent.com/29405747/229260724-5b65952e-ddd7-4353-879c-f00f1ec07c53.png)
